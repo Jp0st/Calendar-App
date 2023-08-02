@@ -12,9 +12,7 @@ N/A
 
 ## Usage
 
-Load up the page and type in whatever you need for each hour. When you update/edit the box for the hour click the save button next to it and it will persist in local storage until you update it again.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+Load up the page and type in whatever you need for each hour. When you update/edit the box for the hour click the save button next to it and it will persist in local storage until you update it again. The color of each box will update based on the current hour of the day so the user can tell how far they should be in their daily plan easily just by a glance.
 
 ![Workday Calendar Unused](assets/images/workday-calendar-empty.PNG)
 
