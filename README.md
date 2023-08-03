@@ -14,6 +14,8 @@ N/A
 
 Load up the page and type in whatever you need for each hour. When you update/edit the box for the hour click the save button next to it and it will persist in local storage until you update it again. The color of each box will update based on the current hour of the day so the user can tell how far they should be in their daily plan easily just by a glance.
 
+https://jp0st.github.io/Calendar-App/ 
+
 ![Workday Calendar Unused](assets/images/workday-calendar-empty.PNG)
 
 ![Workday Calendar Used](assets/images/workday-calendar-filled.PNG)
